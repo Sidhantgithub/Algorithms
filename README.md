@@ -1,4 +1,4 @@
 # Algorithms
-Some Important Algorithms. Stanford Algorithms Course.
+Some Important Algorithms.
 
 I have divided different category of algorithms in different branches.
